@@ -3,5 +3,5 @@ node_modules
 vendor
 
 # Dev folders
-dist/
-.cache/
+dist
+.cache
