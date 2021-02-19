@@ -4,4 +4,4 @@ vendor
 
 # Dev folders
 dist
-.cache
+./.cache
